@@ -1,0 +1,13 @@
+.b1, .b2, .b3 {
+  background-color: #e8be23;
+  border-radius: 12px 22px 33px;
+  color: #FFF;
+  padding: 30px; }
+
+.b2 {
+  background-color: #b2712d;
+  border-radius: 12px 22px; }
+
+.b3 {
+  background-color: #3ec297;
+  border-radius: 12px 22px 33px 44px; }
